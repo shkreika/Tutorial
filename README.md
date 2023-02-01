@@ -10,7 +10,8 @@ Apps and tools tutorial for automating processes in operations. **Feel free to e
 
   1. sendEmail.js
       * Send E-mail function that can be sent from google sheets
-      * tiktok: 
+      * TikTok Part 1/2: https://tinyurl.com/3smzfd25
+      * TikTok Part 2/2: https://tinyurl.com/mpk98ecp
 ___
 
 _Got something to say? You can contact me through these channels:_
